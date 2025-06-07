@@ -40,7 +40,7 @@ EGH455 simulates professional engineering environments by guiding teams through 
 
 ## 📂 Assessments
 
-| Assessment Task            | Weight | Due    | Description                                                                 |
+| Assessment             | Weight | Due    | Description                                                                 |
 |---------------------------|--------|--------|-----------------------------------------------------------------------------|
 | **Problem Solving Task**  | 25%    | Week 6 | Address a systems engineering challenge (e.g. requirements, concept of ops) |
 | **Project (Applied)**     | 55%    | Week 13| Full design documentation, trade studies, test reports, group project files |
