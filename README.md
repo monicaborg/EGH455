@@ -11,7 +11,7 @@ The unit focuses on applying systems engineering methodologies to design, test, 
 
 **Coordinator:** Felipe Gonzalez  
 **Focus:** Experimental design, teamwork, systems engineering
-**Prerequisite:** CAB403 (Waived)
+**Prerequisite:** CAB403 (Waived by coordinator)
 
 EGH455 simulates professional engineering environments by guiding teams through the complete systems engineering lifecycle — from identifying a need, to design, verification, and industry-style review.
 
